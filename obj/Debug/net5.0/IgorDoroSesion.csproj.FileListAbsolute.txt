@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.exe
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.deps.json
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.runtimeconfig.json
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.runtimeconfig.dev.json
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.dll
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\ref\IgorDoroSesion.dll
+C:\Users\User\Desktop\IgorDoroSesion\bin\Debug\net5.0\IgorDoroSesion.pdb
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.AssemblyInfo.cs
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.dll
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\ref\IgorDoroSesion.dll
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.pdb
+C:\Users\User\Desktop\IgorDoroSesion\obj\Debug\net5.0\IgorDoroSesion.genruntimeconfig.cache

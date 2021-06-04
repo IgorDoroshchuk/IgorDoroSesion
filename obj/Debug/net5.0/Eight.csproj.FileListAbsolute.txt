@@ -1,0 +1,16 @@
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.exe
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.deps.json
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.runtimeconfig.json
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.runtimeconfig.dev.json
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.dll
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\ref\Eight.dll
+C:\Users\volos\source\repos\Eight\bin\Debug\net5.0\Eight.pdb
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.AssemblyInfo.cs
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.dll
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\ref\Eight.dll
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.pdb
+C:\Users\volos\source\repos\Eight\obj\Debug\net5.0\Eight.genruntimeconfig.cache
